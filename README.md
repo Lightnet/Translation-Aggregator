@@ -1,16 +1,16 @@
  * Note this not my src but to place for better used.
 
 Program: Translation Aggregator
+
 Version: r182
+
 Link: http://www.hongfire.com/
 
-
-[http://www.hongfire.com/forum/forum/hentai-lair/hentai-game-discussion/tools-and-tutorials/68499-translation-aggregator] (Translation Aggregator Post)
+[http://www.hongfire.com/forum/forum/hentai-lair/hentai-game-discussion/tools-and-tutorials/68499-translation-aggregator](Translation Aggregator Post)
 
 User: Setx
 
-Information : Maintiner:
-
+Information : Maintainer
 
 
 Changelog:
