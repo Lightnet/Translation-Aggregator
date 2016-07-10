@@ -4,8 +4,14 @@ Program: Translation Aggregator
 Version: r182
 Link: http://www.hongfire.com/
 
+
+[http://www.hongfire.com/forum/forum/hentai-lair/hentai-game-discussion/tools-and-tutorials/68499-translation-aggregator] (Translation Aggregator Post)
+
 User: Setx
-Information :
+
+Information : Maintiner:
+
+
 
 Changelog:
 
